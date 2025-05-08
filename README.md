@@ -39,7 +39,7 @@ ssh -i "EC2-Tutorial.pem" ec2-user@<IP_DNS_Público>
 
 ![image](https://github.com/user-attachments/assets/fafe8e8c-1f69-4455-b4af-2210b0c56f28)
 
-![image](https://github.com/user-attachments/assets/a58edea7-4bb6-4318-906f-54a65a081793)
+![image](https://github.com/user-attachments/assets/2a6b006f-cd9e-492a-bf92-04f51921aa5e)
 
 ![image](https://github.com/user-attachments/assets/5eb89855-994b-45fa-adfb-fbb0643e219d)
 
